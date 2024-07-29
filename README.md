@@ -2,4 +2,4 @@
 
 ##### deploy link 👇👇🏿
 
-if you want to see click here ()
+if you want to see click here (https://mr-mohammadi-sab.github.io/tailwindcss-producat-cart/)
